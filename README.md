@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There;Second+line+of+text)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=hexcode&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
